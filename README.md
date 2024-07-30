@@ -10,7 +10,7 @@ A Structural-aware framework for Program Termination via Neural Networks
 
 ## Artificial
 
-### 1 TermVNNs（ours)
+### 1 TermVNN（ours)
 
 ----Avarage：11.5/13（90%）
 
