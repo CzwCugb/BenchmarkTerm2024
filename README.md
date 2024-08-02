@@ -1,6 +1,6 @@
 # Benchmarks for program termination
 
-A Structural-aware framework for Program Termination via Neural Networks
+> A Structural-aware framework for Program Termination via Neural Networks
 
 ## SV-COMP-termination-crafted
 
