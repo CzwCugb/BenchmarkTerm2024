@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(8):
+  x = 13
+  if 11 != y:
+    y += 3
+  y = 10
+  x += 2

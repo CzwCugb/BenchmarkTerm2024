@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 3 > y:
+  while 3 == x:
+    while x == x:
+      while x != x:
+        if y <= 8:
+          y -= 3

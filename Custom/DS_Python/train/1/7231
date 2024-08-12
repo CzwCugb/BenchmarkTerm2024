@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x += 2
+for i in range(3):
+  for i in range(20):
+    x -= 1
+    x = 13
+    x -= 2

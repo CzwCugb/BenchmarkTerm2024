@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while 13 <= y:
+  if 8 > 5:
+    for i in range(16):
+      for i in range(6):
+        x = 1
+      y += 3

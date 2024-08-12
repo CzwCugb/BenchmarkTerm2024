@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x += 3
+for i in range(20):
+  while x <= x:
+    if 10 != x:
+      for i in range(20):
+        x += 1

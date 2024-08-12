@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 14 < 3:
+  for i in range(3):
+    y -= 2
+    y = 19
+    y = 2
+    for i in range(10):
+      if x != x:
+        y += 2

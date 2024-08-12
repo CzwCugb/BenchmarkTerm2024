@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 8 <= x:
+  if y >= y:
+    while 11 != y:
+      for i in range(6):
+        while y == x:
+          for i in range(10):
+            x -= 2

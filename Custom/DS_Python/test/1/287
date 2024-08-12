@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 10 <= 20:
+  x += 2
+  if x >= 15:
+    x += 2
+    x = 8
+  x -= 1

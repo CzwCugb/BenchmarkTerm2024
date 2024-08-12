@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y += 3
+while 14 > x:
+  for i in range(2):
+    if 8 != 13:
+      if x == x:
+        if x > y:
+          y += 1

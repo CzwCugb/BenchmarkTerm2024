@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 19 == 13:
+  for i in range(4):
+    if 14 >= x:
+      x = 9
+      if x >= y:
+        y += 2
+        x += 1

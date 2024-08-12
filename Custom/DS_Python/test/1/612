@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(15):
+  if x >= x:
+    if x < x:
+      for i in range(2):
+        if x != 5:
+          y -= 2

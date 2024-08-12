@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y == y:
+  while y == x:
+    if 1 <= 20:
+      for i in range(6):
+        x = 5
+        if x > 6:
+          x += 2

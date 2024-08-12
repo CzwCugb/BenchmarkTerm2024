@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 13
+while x <= 13:
+  y -= 2
+  for i in range(7):
+    while 13 != x:
+      while 8 == 20:
+        x -= 3
+        y += 1

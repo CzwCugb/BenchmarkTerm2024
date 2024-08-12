@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(7):
+  for i in range(4):
+    while y > x:
+      while x >= y:
+        for i in range(4):
+          for i in range(8):
+            y = 4
+          x += 3

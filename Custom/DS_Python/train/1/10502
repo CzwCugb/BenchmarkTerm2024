@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y += 3
+if 20 == 16:
+  while x < y:
+    y -= 1
+  if y > x:
+    if 12 <= x:
+      y += 3

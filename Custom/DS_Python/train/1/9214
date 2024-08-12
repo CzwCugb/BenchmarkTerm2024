@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(3):
+  for i in range(14):
+    if y < y:
+      if x <= x:
+        y = 18
+      y -= 2

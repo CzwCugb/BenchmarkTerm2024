@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 17
+x += 3
+if 3 != 3:
+  y += 3
+  y = 1
+y -= 3

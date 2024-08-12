@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(19):
+  y = 7
+if 14 >= x:
+  if x > x:
+    if x >= 15:
+      x += 3

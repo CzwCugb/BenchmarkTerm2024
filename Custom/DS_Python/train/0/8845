@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while x <= 9:
+  while y != y:
+    if 5 == 4:
+      for i in range(9):
+        x -= 3
+      x += 3

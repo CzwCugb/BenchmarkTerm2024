@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y += 2
+y += 2
+while y != y:
+  while y == y:
+    if x == y:
+      for i in range(11):
+        if y >= x:
+          y += 3

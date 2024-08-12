@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while 15 >= 13:
+  while 9 >= 5:
+    y = 8
+    for i in range(6):
+      while y < y:
+        if x != x:
+          y = 6
+        y -= 1

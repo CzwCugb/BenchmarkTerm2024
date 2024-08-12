@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if x >= x:
+  x += 2
+if y >= x:
+  for i in range(13):
+    x -= 3
+  x -= 1

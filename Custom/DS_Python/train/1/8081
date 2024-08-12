@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y != y:
+  for i in range(13):
+    x = 8
+  while 15 != x:
+    x = 1
+  y -= 2

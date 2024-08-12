@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 10 > x:
+  if x == 6:
+    for i in range(11):
+      for i in range(3):
+        if y >= y:
+          if x != x:
+            y += 3

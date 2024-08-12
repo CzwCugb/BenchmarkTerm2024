@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y == x:
+  y = 7
+if 8 < x:
+  for i in range(16):
+    x = 17
+  x += 1

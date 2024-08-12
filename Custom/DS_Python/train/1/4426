@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y < 8:
+  if 8 < y:
+    if y > y:
+      if x >= y:
+        if x >= x:
+          y -= 1

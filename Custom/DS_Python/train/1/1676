@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 11
+x = 18
+x += 2
+x += 3
+y = 7
+while 20 == x:
+  for i in range(7):
+    y -= 3

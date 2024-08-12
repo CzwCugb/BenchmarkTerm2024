@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while 10 < 4:
+  x = 16
+if 5 == 19:
+  y = 7
+y -= 3
+y = 12
+for i in range(5):
+  x += 2

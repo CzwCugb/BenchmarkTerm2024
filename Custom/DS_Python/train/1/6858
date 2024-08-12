@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 8
+y += 1
+if x != 20:
+  while 10 == x:
+    for i in range(15):
+      x = 8
+    y += 1

@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 12
+y = 1
+y = 4
+while y >= y:
+  x += 3
+  y -= 1

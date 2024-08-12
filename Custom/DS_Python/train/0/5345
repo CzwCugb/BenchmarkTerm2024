@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y -= 3
+y += 1
+x = 4
+if 15 >= 11:
+  while 9 >= x:
+    y += 1

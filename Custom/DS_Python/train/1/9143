@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y < y:
+  x -= 3
+if x <= y:
+  while x != x:
+    if 10 != 4:
+      x -= 2

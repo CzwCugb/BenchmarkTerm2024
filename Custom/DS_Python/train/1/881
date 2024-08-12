@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 3 != x:
+  if 1 != 15:
+    if y >= 19:
+      for i in range(19):
+        y = 13
+        while y > 6:
+          y -= 2

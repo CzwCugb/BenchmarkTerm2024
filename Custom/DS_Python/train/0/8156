@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y -= 3
+if 10 == y:
+  x = 17
+while x <= 11:
+  while y >= x:
+    y -= 1

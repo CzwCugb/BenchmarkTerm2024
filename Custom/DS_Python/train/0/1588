@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x -= 3
+y = 18
+y = 4
+while x < 14:
+  x += 2
+  y = 16
+y += 2

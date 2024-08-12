@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 20 <= y:
+  x -= 2
+  if y <= y:
+    x = 4
+    x = 14
+    y -= 1

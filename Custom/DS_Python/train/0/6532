@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while y >= y:
+  if 16 <= x:
+    for i in range(6):
+      x = 7
+      x += 2
+      if 9 <= x:
+        y += 2

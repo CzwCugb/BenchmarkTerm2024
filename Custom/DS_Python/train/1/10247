@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while 12 == x:
+  y += 2
+  if x != 20:
+    if x >= x:
+      y = 20
+      y -= 2
+    x += 2

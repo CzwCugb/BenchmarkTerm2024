@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 16
+x += 2
+while 5 > y:
+  for i in range(9):
+    if x >= y:
+      y = 14
+      while 14 == x:
+        y += 2

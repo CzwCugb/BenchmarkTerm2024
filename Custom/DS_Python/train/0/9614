@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while y != x:
+  if 15 == y:
+    if 2 != 17:
+      for i in range(5):
+        y = 5
+        x -= 2

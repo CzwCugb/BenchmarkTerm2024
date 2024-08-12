@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 16
+x -= 3
+if 5 < 16:
+  for i in range(7):
+    x -= 3
+    x += 1
+  y -= 1
+x -= 3

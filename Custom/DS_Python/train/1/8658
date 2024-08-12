@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 9
+x = 11
+x = 14
+y = 10
+for i in range(6):
+  x -= 1

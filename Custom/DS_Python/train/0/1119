@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while 6 <= 18:
+  while 5 != y:
+    while x > x:
+      x -= 3
+    y = 16
+  y = 15
+  y -= 2

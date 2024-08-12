@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(2):
+  y = 12
+  while y == 15:
+    y -= 2
+    while 20 > 16:
+      x += 2

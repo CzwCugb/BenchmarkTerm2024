@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 2 > x:
+  if x == x:
+    while y > y:
+      y = 2
+      y = 2
+      x -= 1

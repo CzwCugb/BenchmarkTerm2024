@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y >= x:
+  x = 18
+x -= 3
+y += 1
+y -= 1
+x = 12
+x -= 1

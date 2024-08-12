@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(6):
+  while y >= y:
+    while 20 == y:
+      y -= 1
+    while 16 == 7:
+      if y != x:
+        y = 6
+      y -= 1

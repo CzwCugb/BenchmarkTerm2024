@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 14
+if x < x:
+  y = 16
+x = 1
+y -= 3
+y += 1

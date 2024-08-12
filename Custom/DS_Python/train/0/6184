@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 17
+y = 10
+y += 2
+for i in range(8):
+  while 5 >= x:
+    x += 2

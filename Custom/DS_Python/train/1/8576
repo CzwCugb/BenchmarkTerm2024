@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 19 != x:
+  x = 8
+x = 8
+if x <= x:
+  y += 3
+  x += 1

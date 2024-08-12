@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y <= 5:
+  if y > x:
+    y = 9
+  y = 15
+y = 5
+x -= 2

@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if x >= x:
+  y -= 2
+if y <= 1:
+  y -= 2
+x -= 1
+if x > y:
+  x += 1

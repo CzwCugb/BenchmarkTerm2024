@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if y == 6:
+  if x != x:
+    y += 2
+    if x >= 9:
+      y = 5
+    x = 13
+    x -= 1

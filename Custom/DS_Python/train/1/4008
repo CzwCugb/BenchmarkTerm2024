@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 1
+if 5 < y:
+  x += 2
+y = 18
+x -= 2
+for i in range(3):
+  x -= 3

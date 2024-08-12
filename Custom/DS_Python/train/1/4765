@@ -1,0 +1,11 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 4
+for i in range(17):
+  x = 19
+  for i in range(19):
+    x = 9
+  x += 3
+  for i in range(9):
+    x += 1

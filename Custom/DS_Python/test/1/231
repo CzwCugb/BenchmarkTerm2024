@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y -= 1
+for i in range(2):
+  x = 18
+if 5 == y:
+  y = 20
+  x -= 3

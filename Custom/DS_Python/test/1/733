@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 19 <= y:
+  if 6 <= 1:
+    if x < 1:
+      for i in range(20):
+        if y < 17:
+          y = 19
+        y += 2

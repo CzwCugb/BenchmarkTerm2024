@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(2):
+  for i in range(19):
+    x -= 2
+  for i in range(8):
+    for i in range(2):
+      y -= 3

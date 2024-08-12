@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while x == y:
+  if y == x:
+    x += 1
+    for i in range(2):
+      y = 18
+    y = 10
+    x += 1

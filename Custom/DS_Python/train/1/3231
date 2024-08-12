@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(3):
+  x += 3
+y = 14
+for i in range(3):
+  if 1 > x:
+    y -= 3
+  y += 2

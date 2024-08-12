@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if x <= x:
+  if x == x:
+    if 15 == y:
+      y += 3
+    y += 1
+  y = 1
+x -= 2

@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 9
+if 14 > x:
+  while 5 >= x:
+    if x != 14:
+      while x >= y:
+        x = 7
+      x -= 3

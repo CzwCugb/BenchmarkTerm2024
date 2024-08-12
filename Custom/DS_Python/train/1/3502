@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+while 15 == y:
+  for i in range(18):
+    while y >= 10:
+      for i in range(10):
+        if y < y:
+          x -= 1

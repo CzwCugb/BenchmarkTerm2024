@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(15):
+  y -= 2
+  for i in range(10):
+    y += 1
+  if 12 == x:
+    y -= 2

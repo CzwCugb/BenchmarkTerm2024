@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x = 15
+for i in range(3):
+  x += 3
+  y = 15
+  for i in range(13):
+    x += 2

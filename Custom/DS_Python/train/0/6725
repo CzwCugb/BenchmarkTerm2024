@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+x += 1
+for i in range(7):
+  y = 2
+x += 2
+while 4 != 2:
+  x += 1

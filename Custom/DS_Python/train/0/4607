@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 15
+y = 18
+while 5 != 20:
+  x += 2
+y += 3
+y += 3

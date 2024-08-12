@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(20):
+  x = 9
+if y >= y:
+  y += 1
+x = 4
+y = 8
+x += 3

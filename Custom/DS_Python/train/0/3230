@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(5):
+  while y <= 3:
+    x -= 2
+  while 10 != 5:
+    y += 1
+  if 19 == y:
+    x += 1

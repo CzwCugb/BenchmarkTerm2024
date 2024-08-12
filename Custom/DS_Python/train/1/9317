@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+for i in range(9):
+  if y != y:
+    while y != y:
+      for i in range(19):
+        y = 18
+        x += 3

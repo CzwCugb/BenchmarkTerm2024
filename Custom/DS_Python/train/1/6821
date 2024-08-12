@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y += 3
+x -= 1
+y += 2
+x = 18
+if x < y:
+  x += 2

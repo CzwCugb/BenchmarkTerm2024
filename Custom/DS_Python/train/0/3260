@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 19
+while 19 != x:
+  while 18 >= x:
+    while y >= 16:
+      for i in range(6):
+        while y == 16:
+          x += 2

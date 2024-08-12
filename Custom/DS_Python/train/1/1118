@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 10 == y:
+  while y > y:
+    y = 6
+    y = 11
+    y = 11
+  y += 1

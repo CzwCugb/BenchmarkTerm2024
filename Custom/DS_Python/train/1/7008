@@ -1,0 +1,10 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if x != x:
+  for i in range(14):
+    while 10 >= 4:
+      while 16 >= x:
+        x = 11
+      for i in range(16):
+        y += 3

@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+y = 10
+x = 13
+if x <= x:
+  y -= 2
+  y = 9
+y += 2

@@ -1,0 +1,9 @@
+x = __VERIFIER_nondet_int()
+y = __VERIFIER_nondet_int()
+
+if 19 >= 17:
+  if 20 != x:
+    while 15 > y:
+      if 16 >= y:
+        y = 19
+      y -= 1
